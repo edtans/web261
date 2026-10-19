@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="Demo_HTML_Form.html" method="POST">
+        <label for="">Username</label><br>
+        <input type="text" id="txtUsername" name="user"/><br>
+        <label for="">Password</label><br>
+        <input type="password" id="txtPassword" name="pass"/><br>
+        <input type="submit" id="btnLogin"/>
+        <input type="reset" id="btnReset"/>
+        <button id="btnLogin2">LOGIN</button>
+    </form>
+
+
+
+
+</body>
+</html>
